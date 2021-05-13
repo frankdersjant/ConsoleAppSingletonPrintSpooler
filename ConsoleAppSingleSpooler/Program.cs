@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleAppSingletonPrintSpooler;
+using System;
 
 namespace ConsoleAppSingleSpooler
 {
