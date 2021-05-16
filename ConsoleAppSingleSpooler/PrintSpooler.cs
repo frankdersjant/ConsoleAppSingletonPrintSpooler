@@ -1,5 +1,6 @@
 ﻿namespace ConsoleAppSingletonPrintSpooler
 {
+    //sealed class: the class cannot be inherited from 
     public sealed class PrintSpooler
     {
         //Static: always only ONE instance no matter how many instances of classes 
